@@ -1,0 +1,61 @@
+TYPE COUNTS: {}
+
+=== page (0) ===
+
+=== post (0) ===
+
+=== product (0) ===
+
+=== product_variation (0) ===
+
+=== elementor_library (0) ===
+
+=== wpforms (0) ===
+
+=== nav_menu_item (0) ===
+
+=== tbay_footer (0) ===
+
+=== tbay_header (0) ===
+
+=== tbay_megamenu (0) ===
+
+=== tbay_customtab (0) ===
+
+=== shop_order (0) ===
+
+=== shop_coupon (0) ===
+
+=== MENU ITEM META (urls / object ids) ===
+  _menu_item_url count: 14
+  _menu_item_object count: 14
+  _menu_item_object_id count: 14
+  _menu_item_type count: 14
+
+=== WPFORMS ===
+
+=== SAMPLE _price / _regular_price ===
+
+=== CATALOG / QUOTE OPTIONS ===
+  woocommerce_cart_redirect_after_add: no
+  woocommerce_enable_guest_checkout: yes
+  option yith_wcwl_add_to_wishlist_icon_type: default
+  option yith_wcwl_added_to_wishlist_icon_type: same
+  option yith_wcwl_add_to_wishlist_icon: heart
+  option yith-wcqv-color-quick-view: a:2:{s:7:\"content\";s:7:\"#ffffff\";s:7:\"overlay\";s:19:\"rgba( 0, 0, 0, 0.8)\
+  option yith-wcqv-closed-button: a:2:{s:5:\"color\";s:7:\"#cdcdcd\";s:11:\"color-hover\";s:7:\"#ff0000\";}
+  option yith_wcqv_update_free_2_0: 2.0.0
+  option yith-wcqv-enable-mobile: yes
+  option yith-wcqv-button-label: Quick View
+  option yith-wcqv-product-description: short
+  option yith-quick-view-product-image-dimensions: a:3:{s:10:\"dimensions\";a:2:{s:5:\"width\";i:450;s:6:\"height\";i:600;}s:4:\"un
+  option yith_wcwl_add_to_wishlist_icon_type: default
+  option yith_wcwl_added_to_wishlist_icon_type: same
+  option yith_wcwl_add_to_wishlist_icon: heart
+  option yith-wcqv-color-quick-view: a:2:{s:7:\"content\";s:7:\"#ffffff\";s:7:\"overlay\";s:19:\"rgba( 0, 0, 0, 0.8)\
+  option yith-wcqv-closed-button: a:2:{s:5:\"color\";s:7:\"#cdcdcd\";s:11:\"color-hover\";s:7:\"#ff0000\";}
+  option yith_wcqv_update_free_2_0: 2.0.0
+  option yith-wcqv-enable-mobile: yes
+  option yith-wcqv-button-label: Quick View
+  option yith-wcqv-product-description: short
+  option yith-quick-view-product-image-dimensions: a:3:{s:10:\"dimensions\";a:2:{s:5:\"width\";i:450;s:6:\"height\";i:600;}s:4:\"un

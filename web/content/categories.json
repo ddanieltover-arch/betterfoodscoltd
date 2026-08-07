@@ -1,0 +1,23 @@
+[
+  {
+    "id": 15,
+    "name": "Beef Products",
+    "slug": "beef-products",
+    "count": 19,
+    "description": "🐄 Beef Products: Unrivaled Quality &amp; Flavor\r\nExplore our selection of premium beef, where quality and flavor are paramount. From richly marbled cuts perfect for grilling to lean selections ideal for everyday cooking, our beef is sourced from reliable vendors and nearby farms who adhere to our strict standards.\r\n\r\nGrass-Fed Excellence: Discover our range of grass-fed beef, known for its superior nutritional profile and robust, natural flavor.\r\n\r\nThe Perfect Cut: Whether you need tenderloins, ribeyes, or specialized dry-aged selections, our talented butchers provide the accuracy and care you demand in every piece.\r\n\r\nTaste the BETTER FOODS CO., LTD. difference in every steak and roast."
+  },
+  {
+    "id": 41,
+    "name": "Pork Products",
+    "slug": "pork-products",
+    "count": 18,
+    "description": "🐖 Pork Products: Heritage &amp; Hand-Crafted\r\nExperience pork like never before with our carefully curated assortment, featuring unique heritage breeds and specialty cuts. Our commitment is to deliver mouthwatering flavors that honor the tradition of fine butchery.\r\n\r\nHeritage Quality: Indulge in our heritage pork selections, prized for their exceptional marbling, depth of flavor, and tenderness.\r\n\r\nButcher's Pride: Every pork product is prepared by our skilled butchers, who take pride in using their twenty years of industry expertise to ensure the highest quality from primal cut to final package.\r\n\r\nElevate your meals with the premium, mouthwatering flavors of our BETTER FOODS CO., LTD. pork."
+  },
+  {
+    "id": 48,
+    "name": "Poultry Products",
+    "slug": "poultry-products",
+    "count": 12,
+    "description": "🐔 Poultry Products: Free-Range and Wholesome\r\nOur poultry selection is focused on providing you with delicious, ethically sourced options for your table. We offer a variety of high-quality chicken and other poultry, all chosen to meet our exacting requirements.\r\n\r\nFree-Range Assurance: We specialize in free-range poultry, ensuring the birds are raised in environments that promote health and well-being, translating directly to better flavor.\r\n\r\nA Commitment to Nourishment: Whether whole birds, breasts, or specialized cuts, our products are designed to satisfy your taste buds while providing nourishment to the body.\r\n\r\nChoose BETTER FOODS CO., LTD. for healthy, flavorful, and responsibly sourced poultry."
+  }
+]

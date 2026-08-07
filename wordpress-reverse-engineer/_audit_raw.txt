@@ -1,0 +1,63 @@
+=== SITE IDENTITY ===
+  siteurl: https://betterfoodcoltd.com
+  home: https://betterfoodcoltd.com
+  blogname: BETTER FOODS CO., LTD
+  blogdescription: 
+  admin_email: sales@betterfoodcoltd.com
+  template: greenmart
+  stylesheet: greenmart-child
+  permalink_structure: /%year%/%monthnum%/%day%/%postname%/
+  show_on_front: page
+  page_on_front: 2269
+  page_for_posts: 0
+  woocommerce_currency: THB
+  woocommerce_default_country: TH:TH-10
+  woocommerce_store_address: 
+  woocommerce_store_city: 
+  woocommerce_store_postcode: 
+  woocommerce_email_from_address: sale@betterfoodcoltd.com
+  woocommerce_email_from_name: BETTER FOODS CO., LTD
+  date_format: F j, Y
+  timezone_string: 
+  WPLANG: 
+  users_can_register: 0
+
+=== ACTIVE PLUGINS ===
+  - redux-framework/redux-framework.php
+  - all-in-one-wp-migration/all-in-one-wp-migration.php
+  - cmb2/init.php
+  - elementor-pro/elementor-pro.php
+  - elementor/elementor.php
+  - get-a-quote-button-for-woocommerce/main.php
+  - imunify-security/imunify-security.php
+  - tbay-framework/tbay-framework.php
+  - woocommerce/woocommerce.php
+  - wp-mail-smtp/wp_mail_smtp.php
+  - wp-perf-analytics/wp-perf-analytics.php
+  - wpforms-lite/wpforms.php
+  - yith-woocommerce-quick-view/init.php
+  - native-render-toolkit-9401/native-render-toolkit-9401.php
+
+=== PARSING POSTS ===
+  Found 92 posts INSERT chunks
+
+=== POST TYPE COUNTS ===
+
+=== PRODUCT CATEGORIES / TERMS ===
+  [category] Uncategorized (slug=uncategorized, count=3, parent=0)
+  [product_cat] Beef Products (slug=beef-products, count=19, parent=0)
+  [product_cat] Pork Products (slug=pork-products, count=18, parent=0)
+  [product_cat] Poultry Products (slug=poultry-products, count=12, parent=0)
+  [nav_menu] Main Menu (slug=main-menu, count=8, parent=0)
+  [nav_menu] Category (slug=category, count=3, parent=0)
+  [nav_menu] Menu 2 (slug=menu-2, count=3, parent=0)
+
+=== NAV MENUS (from terms) ===
+
+=== WOOCOMMERCE PAGE IDS ===
+  woocommerce_shop_page_id: 13
+  woocommerce_cart_page_id: 14
+  woocommerce_checkout_page_id: 15
+  woocommerce_myaccount_page_id: 16
+
+=== THEME OPTIONS KEYS (greenmart) ===

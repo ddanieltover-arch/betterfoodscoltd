@@ -1,0 +1,35 @@
+# Secrets & local config
+wp-config.php
+.env
+.env.*
+!.env.example
+*.pem
+
+# Dependencies & build
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+
+# Logs & dumps
+error_log
+*.log
+*.sql
+
+# WordPress runtime / cache / backups
+wp-content/cache/
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+wp-content/ai1wm-backups/
+wp-content/imunify-security/
+cgi-bin/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+.vercel
