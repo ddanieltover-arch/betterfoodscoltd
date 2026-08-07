@@ -1,0 +1,32 @@
+{
+  "products": 49,
+  "improvedBullets": 48,
+  "improvedDescriptions": 0,
+  "halalCount": 31,
+  "organicCount": 35,
+  "elementorPages": {
+    "about-us": 2,
+    "contact-us": 2,
+    "home": 1
+  },
+  "sample": {
+    "slug": "whole-chicken-griller",
+    "bullets": [
+      "100% Whole Chicken (Griller)",
+      "100% HALAL",
+      "100% Organic Food",
+      "100% Fresh Not Chemicals",
+      "Reviews (0)",
+      "Read more Frozen 3 Joint Wing Read more",
+      "Read more Frozen Beef Hearts Read more",
+      "Read more Frozen Chicken Gizzards Read more",
+      "Read more Frozen Chicken Livers Read more"
+    ],
+    "description": "100% Whole Chicken (Griller) 100% HALAL 100% Organic Food 100% Fresh Not Chemicals We are wholesale suppliers, bulk exporters of Whole Chicken (Griller). Our Whole Chicken (Griller) is of HALAL and our advanced production facilities are ISO",
+    "flags": {
+      "halal": true,
+      "organic": true,
+      "freshNoChemicals": true
+    }
+  }
+}

@@ -12,6 +12,12 @@ export type ProductImage = {
   thumbnail?: string;
 };
 
+export type ProductFlags = {
+  halal: boolean;
+  organic: boolean;
+  freshNoChemicals: boolean;
+};
+
 export type Product = {
   id: number;
   name: string;
@@ -24,6 +30,12 @@ export type Product = {
   price: number;
   currency: string;
   quoteOnly: boolean;
+  stockStatus?: string;
+  flags?: ProductFlags;
+  source?: {
+    importerUrl?: string;
+    importerCategory?: string;
+  };
 };
 
 export type SiteInfo = {

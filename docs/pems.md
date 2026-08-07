@@ -23,17 +23,14 @@
 
 ## Active work
 
-- WordPress reverse-engineer skill phases 1–11 documented in `docs/migration-audit.md`
-- Phase 12: building Next.js replacement in `/web`
-
-## Constraints
-
-- Preserve all product/category/page URLs
-- Quote-only commerce (no Stripe checkout in v1)
-- Brand green `#00AB55`
+- WordPress reverse-engineer skill phases 1–12 done in `/web`
+- SQL dump mined: product flags/descriptions from `_ei_product`; no Yoast SEO in DB
+- Quote emails via Resend only (no CRM DB yet)
 
 ## Decision log
 
 - 2026-08-07: File-based content over Sanity for v1 (49 products)
 - 2026-08-07: Replace Woo quote plugin with custom quote list + Resend
 - 2026-08-07: Keep WP dump at repo root; new app isolated in `/web`
+- 2026-08-07: SQL used for forensic enrichment, not as runtime database
+- 2026-08-07: Product HALAL/Organic flags derived from importer HTML in SQL meta

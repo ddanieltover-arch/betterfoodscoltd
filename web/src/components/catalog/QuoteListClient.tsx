@@ -75,7 +75,8 @@ export function QuoteListClient() {
       <div className="py-16 text-center">
         <p className="font-display text-2xl text-ink">Quote request sent</p>
         <p className="mt-3 text-muted">
-          Our sales team will follow up with wholesale pricing.
+          A confirmation email was sent to you, and our sales team has been
+          notified. We will follow up with wholesale pricing.
         </p>
         <Link
           href="/shop/"

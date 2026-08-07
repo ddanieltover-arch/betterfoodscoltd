@@ -101,6 +101,28 @@ export default async function ProductPage({ params }: Props) {
             </h1>
             <p className="mt-4 text-muted">Wholesale pricing on request</p>
 
+            {product.flags?.halal ||
+            product.flags?.organic ||
+            product.flags?.freshNoChemicals ? (
+              <div className="mt-4 flex flex-wrap gap-2">
+                {product.flags.halal ? (
+                  <span className="border border-brand/30 bg-brand/10 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-brand">
+                    HALAL
+                  </span>
+                ) : null}
+                {product.flags.organic ? (
+                  <span className="border border-ink/15 bg-surface px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-ink">
+                    Organic
+                  </span>
+                ) : null}
+                {product.flags.freshNoChemicals ? (
+                  <span className="border border-ink/15 bg-surface px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-ink">
+                    No chemicals
+                  </span>
+                ) : null}
+              </div>
+            ) : null}
+
             {product.bullets.length > 0 ? (
               <ul className="mt-6 space-y-2 text-sm text-ink/80">
                 {product.bullets.map((b) => (

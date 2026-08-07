@@ -7,5 +7,8 @@
   "currency": "THB",
   "country": "TH",
   "logo": "https://betterfoodcoltd.com/wp-content/uploads/2021/09/BETTER-FOODS-CO.-LTD2.png",
-  "favicon": "https://betterfoodcoltd.com/wp-content/uploads/2025/12/cropped-BETTER-FOODS-CO.-LTD4-192x192.png"
+  "favicon": "https://betterfoodcoltd.com/wp-content/uploads/2025/12/cropped-BETTER-FOODS-CO.-LTD4-192x192.png",
+  "emailSales": "sale@betterfoodcoltd.com",
+  "sqlSource": "betterfo_wp356.sql",
+  "legacyImporterDomain": "betterfoodsthai.com"
 }

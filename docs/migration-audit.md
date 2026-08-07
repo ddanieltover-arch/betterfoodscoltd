@@ -244,7 +244,25 @@ See `references/project-structure.md` — adapted routes:
 
 ## Gaps / needs
 
-- Local `wp-content/uploads` empty — media pulled from live URLs (download into `web/public` during build)  
-- Brand logo assets to be mirrored locally  
-- Resend API key required for production email  
-- Confirm whether cart/checkout pages should 301 → quote-list (recommended: yes)
+- ~~Local media~~ — 49 product images mirrored under `web/public/images/products/`
+- ~~Brand logo~~ — fixed green/black header + light footer variants
+- Resend API key required for production email (`web/.env.local`)
+- Cart/checkout already 301 → `/quote-list/`
+
+---
+
+## 15. SQL dump mining (`betterfo_wp356.sql`) — 2026-08-07
+
+Mined `wpd5_postmeta` for all 49 product IDs and Elementor pages.
+
+| Finding | Detail |
+|---------|--------|
+| Yoast / Rank Math | **None** on products — no usable SEO titles/descriptions in SQL |
+| SKU / weight / dimensions | **Empty** across catalog |
+| Product source | Imported via External Importer from **betterfoodsthai.com** (`_ei_product`) |
+| Rich copy recovered | HALAL / Organic / Fresh bullets + wholesale descriptions from `_ei_product` |
+| Flags derived | HALAL **31**/49 · Organic **35**/49 · No-chemicals from bullets |
+| Elementor | Home (41k), About (30k), Contact (10k) JSON — text extracted to `content/pages-copy.json` |
+| Runtime DB | Still **not** used — enriched data written to `web/content/products.json` |
+
+Artifacts: `wordpress-reverse-engineer/extracted/sql-mine-report.json`, `sql-enrichment-report.json`, `products-from-sql.json`, `elementor-page-copy.json`.

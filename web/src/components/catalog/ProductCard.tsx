@@ -9,6 +9,7 @@ type Props = {
 
 export function ProductCard({ product }: Props) {
   const image = product.images[0];
+  const flags = product.flags;
 
   return (
     <article className="group flex flex-col">
@@ -29,6 +30,20 @@ export function ProductCard({ product }: Props) {
             No image
           </div>
         )}
+        {flags?.halal || flags?.organic ? (
+          <div className="absolute left-2 top-2 flex flex-wrap gap-1">
+            {flags?.halal ? (
+              <span className="bg-brand px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white">
+                Halal
+              </span>
+            ) : null}
+            {flags?.organic ? (
+              <span className="bg-ink/80 px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white">
+                Organic
+              </span>
+            ) : null}
+          </div>
+        ) : null}
       </Link>
       <div className="flex flex-1 flex-col gap-3 pt-4">
         <div>

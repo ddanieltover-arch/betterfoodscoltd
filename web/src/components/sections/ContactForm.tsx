@@ -83,12 +83,15 @@ export function ContactForm() {
 
       {status === "success" ? (
         <p className="text-sm font-medium text-brand" role="status">
-          Thank you — we will respond shortly.
+          Thank you — a confirmation email was sent to you, and our sales team
+          has been notified.
         </p>
       ) : null}
       {status === "error" && error ? (
         <p className="text-sm font-medium text-red-700" role="alert">
-          {error}
+          {error.includes("RESEND_API_KEY")
+            ? "Email is not configured yet. Add RESEND_API_KEY to .env.local and restart the server."
+            : error}
         </p>
       ) : null}
     </form>
