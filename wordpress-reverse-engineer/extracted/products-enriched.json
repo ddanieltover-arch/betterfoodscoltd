@@ -28,10 +28,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -39,8 +35,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4851,
+    "thumbnailFile": "2025/12/whole-chicken-griller.webp",
+    "imageAlt": "Whole Chicken (Griller)",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4850,
@@ -70,10 +106,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -81,8 +113,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4849,
+    "thumbnailFile": "2025/12/frozen-middle-joint-wing.webp",
+    "imageAlt": "Frozen Middle Joint Wing",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4848,
@@ -112,10 +184,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -123,8 +191,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4847,
+    "thumbnailFile": "2025/12/frozen-chicken-livers.jpg",
+    "imageAlt": "Frozen Chicken Livers",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4846,
@@ -154,10 +262,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -165,8 +269,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4845,
+    "thumbnailFile": "2025/12/frozen-chicken-gizzards.jpg",
+    "imageAlt": "Frozen Chicken Gizzards",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4844,
@@ -196,10 +340,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -207,8 +347,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4843,
+    "thumbnailFile": "2025/12/frozen-chicken-breast.jpg",
+    "imageAlt": "Frozen Chicken Breast",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4842,
@@ -238,10 +417,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -249,8 +424,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4841,
+    "thumbnailFile": "2025/12/frozen-beef-hearts.jpg",
+    "imageAlt": "Frozen Beef Hearts",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4840,
@@ -280,10 +496,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -291,8 +503,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4839,
+    "thumbnailFile": "2025/12/frozen-3-joint-wing.jpg",
+    "imageAlt": "Frozen 3 Joint Wing",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4838,
@@ -322,10 +575,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -333,8 +582,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4837,
+    "thumbnailFile": "2025/12/frozen-2-joint-wing.jpg",
+    "imageAlt": "Frozen 2 Joint Wing",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4836,
@@ -364,10 +654,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -375,8 +661,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4835,
+    "thumbnailFile": "2025/12/chicken-paws.jpg",
+    "imageAlt": "Chicken Paws",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4834,
@@ -402,10 +729,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -413,8 +736,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4833,
+    "thumbnailFile": "2025/12/chicken-leg-quarter.jpg",
+    "imageAlt": "Chicken Leg Quarter",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4832,
@@ -440,10 +803,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -451,8 +810,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4831,
+    "thumbnailFile": "2025/12/chicken-feets.webp",
+    "imageAlt": "Chicken Feets",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4830,
@@ -482,10 +882,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -493,8 +889,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 4829,
+    "thumbnailFile": "2025/12/chicken-drumstick.jpg",
+    "imageAlt": "Chicken Drumstick",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4828,
@@ -520,10 +957,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -531,8 +964,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5241,
+    "thumbnailFile": "2025/12/bbad20_d62717595ed74b989724268d71cde412mv2.avif",
+    "imageAlt": "Frozen Pork Spare-Ribs",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4827,
@@ -558,10 +1031,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -569,8 +1038,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5242,
+    "thumbnailFile": "2025/12/bbad20_28239bb279d04aedb0fb8776ed2d4768mv2.avif",
+    "imageAlt": "Frozen Pork Shoulder",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4826,
@@ -596,10 +1104,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -607,8 +1111,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5243,
+    "thumbnailFile": "2025/12/bbad20_d223cfbbc3ff4bb3bfd39edea29e689dmv2-1.avif",
+    "imageAlt": "Frozen Pork sausages",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4825,
@@ -634,10 +1178,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -645,8 +1185,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5239,
+    "thumbnailFile": "2025/12/bbad20_34a81d835ff04f418633651a98ffcca5mv2.avif",
+    "imageAlt": "Frozen Pork offals",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4823,
@@ -672,10 +1253,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -683,8 +1260,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5238,
+    "thumbnailFile": "2025/12/bbad20_01b449990d134f6e8dd21764c73e4207mv2.avif",
+    "imageAlt": "Frozen Pork leg",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4822,
@@ -710,10 +1326,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -721,8 +1333,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5237,
+    "thumbnailFile": "2025/12/bbad20_f0b86eca3be04bdaaae11398b9678489mv2.avif",
+    "imageAlt": "Frozen Pork hind feet",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4821,
@@ -752,10 +1403,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -763,8 +1410,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5236,
+    "thumbnailFile": "2025/12/bbad20_5c3ceba53cd4468387a34d04279ec65cmv2.avif",
+    "imageAlt": "Frozen Pork Hearts",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4820,
@@ -790,10 +1478,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -801,8 +1485,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5235,
+    "thumbnailFile": "2025/12/bbad20_3792f9f122d049df95945989bc449fe0mv2.avif",
+    "imageAlt": "Frozen Pork head",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4819,
@@ -828,10 +1552,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -839,8 +1559,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5234,
+    "thumbnailFile": "2025/12/bbad20_0c50a62e787349a28f7e86cf723fafbbmv2.avif",
+    "imageAlt": "Frozen Pork Ham",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4818,
@@ -870,10 +1629,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -881,8 +1636,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5233,
+    "thumbnailFile": "2025/12/bbad20_ed9e985f35f9475f86f86b0d79426555mv2.avif",
+    "imageAlt": "Frozen Pork Gammon",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4817,
@@ -912,10 +1708,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -923,8 +1715,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5232,
+    "thumbnailFile": "2025/12/bbad20_28317a8d53044340b45846dc280af764mv2.avif",
+    "imageAlt": "Frozen Pork Feet",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4816,
@@ -954,10 +1785,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -965,8 +1792,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5231,
+    "thumbnailFile": "2025/12/bbad20_78ad58210bd44689b307e487c4fdb3a8mv2.avif",
+    "imageAlt": "Frozen Pork Fat",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4815,
@@ -992,10 +1859,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1003,8 +1866,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5230,
+    "thumbnailFile": "2025/12/bbad20_0c5f63bb59c04aa6a789a7671e8bb43amv2.avif",
+    "imageAlt": "Frozen Pork cooked ham",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4814,
@@ -1030,10 +1934,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1041,8 +1941,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5215,
+    "thumbnailFile": "2025/12/bbad20_8091ed479cd94455a7c67216459c1ea7mv2.avif",
+    "imageAlt": "Frozen Pork Chop",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4813,
@@ -1071,10 +2010,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1082,8 +2017,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5212,
+    "thumbnailFile": "2025/12/bbad20_7fcf85e6e3de4ae9939c252fe0508d51mv2.avif",
+    "imageAlt": "Frozen Pork Carcass",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4812,
@@ -1109,10 +2084,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1120,8 +2091,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5210,
+    "thumbnailFile": "2025/12/bbad20_936e105b033e475297b9e32e144e0129mv2.avif",
+    "imageAlt": "Frozen Pork Belly",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4811,
@@ -1147,10 +2158,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1158,8 +2165,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5209,
+    "thumbnailFile": "2025/12/bbad20_844c9790d7e046938cf7b36dc9334022mv2.avif",
+    "imageAlt": "Frozen Pork Bacon",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4810,
@@ -1185,10 +2231,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1196,8 +2238,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5208,
+    "thumbnailFile": "2025/12/bbad20_623e39459ed441bf8cd772eb1301bc24mv2.avif",
+    "imageAlt": "Boneless Pork Collar",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4809,
@@ -1227,10 +2309,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1238,8 +2316,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5206,
+    "thumbnailFile": "2025/12/bbad20_2405d2211e674c27b5566637dbde2cbdmv2.avif",
+    "imageAlt": "Tender Loin",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4808,
@@ -1269,10 +2387,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1280,8 +2394,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5205,
+    "thumbnailFile": "2025/12/bbad20_53eb1c0440e048eaab326f2394182d51mv2.avif",
+    "imageAlt": "Strip Loin",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4807,
@@ -1311,10 +2466,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1322,8 +2473,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5204,
+    "thumbnailFile": "2025/12/bbad20_006f955c20e2428790067d93058579a6mv2.avif",
+    "imageAlt": "Short Ribs",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4806,
@@ -1353,10 +2544,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1364,8 +2551,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5203,
+    "thumbnailFile": "2025/12/bbad20_abd880d47cce49c9b0f769ceb19ef578mv2.avif",
+    "imageAlt": "Rib Fingers",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4805,
@@ -1395,10 +2622,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1406,8 +2629,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5202,
+    "thumbnailFile": "2025/12/bbad20_d8fc26eb5f074affa0524f85851ff6b3mv2.avif",
+    "imageAlt": "Rib Eye Roll",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4804,
@@ -1437,10 +2701,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1448,8 +2708,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5201,
+    "thumbnailFile": "2025/12/bbad20_1b209ff0d4b7421f810d9f231fa95a33mv2.avif",
+    "imageAlt": "Frozen Beef Topside",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4803,
@@ -1479,10 +2779,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1490,8 +2786,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5200,
+    "thumbnailFile": "2025/12/bbad20_773076bcbb8b4bb99b32c1addf9660a8mv2.avif",
+    "imageAlt": "Frozen Beef Rumps",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4802,
@@ -1521,10 +2856,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1532,8 +2863,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5192,
+    "thumbnailFile": "2025/12/bbad20_6fdc3ec1d71549cda4f18a4dac81608amv2-1.avif",
+    "imageAlt": "Frozen Beef Hearts",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4801,
@@ -1563,10 +2934,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1574,8 +2941,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5191,
+    "thumbnailFile": "2025/12/bbad20_3193bbed32954b5591398431d5db55c5mv2.avif",
+    "imageAlt": "Frozen Beef Flank",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4800,
@@ -1605,10 +3013,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1616,8 +3020,49 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5190,
+    "thumbnailFile": "2025/12/bbad20_b44df1a658234542b1228365cc07a846mv2.avif",
+    "imageAlt": "Frozen Beef Chuck",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_elementor_page_assets",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4799,
@@ -1647,10 +3092,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1658,8 +3099,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5189,
+    "thumbnailFile": "2025/12/bbad20_962a65ffa7e0488299905056a199b47cmv2.avif",
+    "imageAlt": "Frozen Beef Carcass",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4798,
@@ -1689,10 +3170,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1700,8 +3177,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5183,
+    "thumbnailFile": "2025/12/bbad20_a50244776062403cb71a1717d599fd4cmv2.avif",
+    "imageAlt": "Frozen Beef Brisket",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4797,
@@ -1731,10 +3248,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1742,8 +3255,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5182,
+    "thumbnailFile": "2025/12/bbad20_863a20c394544301a0082bdd94f16e06mv2.avif",
+    "imageAlt": "Chuck Eye Roll",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4796,
@@ -1773,10 +3326,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1784,8 +3333,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5181,
+    "thumbnailFile": "2025/12/bbad20_6411a7891476486e8d43ede8fac72acbmv2.avif",
+    "imageAlt": "Chuck Eye Log",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4795,
@@ -1811,10 +3400,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1822,8 +3407,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5180,
+    "thumbnailFile": "2025/12/bbad20_1587da6c72cb43f581fb11ef3b5a4605mv2.avif",
+    "imageAlt": "Boneless Short Ribs",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4794,
@@ -1853,10 +3478,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1864,8 +3485,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5179,
+    "thumbnailFile": "2025/12/bbad20_9bb366cdc85843d29bcc225d494d6e45mv2.avif",
+    "imageAlt": "Boneless Chuck Short Rib",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4793,
@@ -1895,10 +3556,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1906,8 +3563,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5177,
+    "thumbnailFile": "2025/12/bbad20_4fdd3441c87b439cb4f3ecdad8c48db5mv2.avif",
+    "imageAlt": "Bone-in Chuck Short Rib",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4792,
@@ -1937,10 +3633,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1948,8 +3640,48 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5176,
+    "thumbnailFile": "2025/12/bbad20_320d67a1f3a0445c821449db60bd1d80mv2.avif",
+    "imageAlt": "Beef Short Ribs",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   },
   {
     "id": 4791,
@@ -1979,10 +3711,6 @@
     "currency": "THB",
     "quoteOnly": true,
     "sku": "",
-    "seo": {
-      "title": "",
-      "description": ""
-    },
     "stockStatus": "instock",
     "weight": "",
     "dimensions": {
@@ -1990,7 +3718,47 @@
       "width": "",
       "height": ""
     },
-    "sqlExcerpt": "",
-    "customFields": {}
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "thumbnailId": 5173,
+    "thumbnailFile": "2025/12/bbad20_6bdbbd486bf046dfad13c031e68d68b4mv2.avif",
+    "imageAlt": "Beef Hind-Quarter",
+    "totalSales": "0",
+    "sqlMetaKeys": [
+      "_backorders",
+      "_download_expiry",
+      "_download_limit",
+      "_downloadable",
+      "_edit_last",
+      "_edit_lock",
+      "_ei_gallery",
+      "_ei_last_update",
+      "_ei_product",
+      "_ei_product_domain",
+      "_ei_product_info",
+      "_ei_product_url",
+      "_greenmart_min_max_quantities_max_qty",
+      "_greenmart_min_max_quantities_min_qty",
+      "_greenmart_min_max_quantities_settings",
+      "_greenmart_min_max_quantities_step",
+      "_manage_stock",
+      "_product_version",
+      "_sold_individually",
+      "_stock_status",
+      "_subtitle",
+      "_tax_class",
+      "_tax_status",
+      "_thumbnail_id",
+      "_video_url",
+      "_virtual",
+      "_visibility",
+      "_wc_average_rating",
+      "_wc_review_count",
+      "_wp_page_template",
+      "_wpb_gqb_disable",
+      "total_sales"
+    ]
   }
 ]
