@@ -76,13 +76,16 @@ export function ContactForm() {
       <button
         type="submit"
         disabled={form.formState.isSubmitting}
-        className="rounded-md bg-brand px-5 py-3 text-sm font-semibold text-white transition hover:bg-brand-dark disabled:opacity-60"
+        className="btn-press rounded-md bg-brand px-5 py-3 text-sm font-semibold text-white hover:bg-brand-dark disabled:pointer-events-none disabled:opacity-60"
       >
         {form.formState.isSubmitting ? "Sending…" : "Get a Quote"}
       </button>
 
       {status === "success" ? (
-        <p className="text-sm font-medium text-brand" role="status">
+        <p
+          className="animate-[fadeUp_0.4s_ease-out] text-sm font-medium text-brand"
+          role="status"
+        >
           Thank you — a confirmation email was sent to you, and our sales team
           has been notified.
         </p>

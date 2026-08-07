@@ -1,8 +1,8 @@
 "use client";
 
-import { motion } from "framer-motion";
 import Link from "next/link";
 import { categories } from "@/lib/catalog";
+import { FadeIn } from "@/components/motion/Reveal";
 
 export function Hero() {
   return (
@@ -21,68 +21,51 @@ export function Hero() {
       />
 
       <div className="relative mx-auto flex min-h-[78vh] max-w-6xl flex-col justify-end px-4 pb-16 pt-28 sm:px-6 sm:pb-20">
-        <motion.p
-          initial={{ opacity: 0, y: 16 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
-          className="font-display text-4xl uppercase tracking-[0.08em] text-brand-light sm:text-5xl md:text-6xl"
-        >
-          BETTER FOODS CO., LTD
-        </motion.p>
-        <motion.h1
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.55, delay: 0.08 }}
-          className="mt-4 max-w-2xl font-display text-3xl leading-tight tracking-wide text-white sm:text-4xl md:text-5xl"
-        >
-          Wholesale meat, cold-chain ready.
-        </motion.h1>
-        <motion.p
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.55, delay: 0.16 }}
-          className="mt-4 max-w-xl text-base text-white/75 sm:text-lg"
-        >
-          Beef, pork, and poultry for importers, distributors, and foodservice —
-          request a quote, not a cart total.
-        </motion.p>
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.55, delay: 0.24 }}
-          className="mt-8 flex flex-wrap gap-3"
-        >
+        <FadeIn>
+          <p className="font-display text-4xl uppercase tracking-[0.08em] text-brand-light sm:text-5xl md:text-6xl">
+            BETTER FOODS CO., LTD
+          </p>
+        </FadeIn>
+        <FadeIn delay={0.08} y={20}>
+          <h1 className="mt-4 max-w-2xl font-display text-3xl leading-tight tracking-wide text-white sm:text-4xl md:text-5xl">
+            Wholesale meat, cold-chain ready.
+          </h1>
+        </FadeIn>
+        <FadeIn delay={0.16} y={20}>
+          <p className="mt-4 max-w-xl text-base text-white/75 sm:text-lg">
+            Beef, pork, and poultry for importers, distributors, and foodservice —
+            request a quote, not a cart total.
+          </p>
+        </FadeIn>
+        <FadeIn delay={0.24} y={20} className="mt-8 flex flex-wrap gap-3">
           <Link
             href="/shop/"
-            className="rounded-md bg-brand px-5 py-3 text-sm font-semibold text-white transition hover:bg-brand-dark"
+            className="btn-press rounded-md bg-brand px-5 py-3 text-sm font-semibold text-white shadow-[0_0_0_0_rgba(0,171,85,0.4)] hover:bg-brand-dark hover:shadow-[0_8px_24px_-8px_rgba(0,171,85,0.65)]"
           >
             Browse catalog
           </Link>
           <Link
             href="/contact-us/"
-            className="rounded-md border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:border-white hover:bg-white/10"
+            className="btn-press rounded-md border border-white/30 px-5 py-3 text-sm font-semibold text-white hover:border-white hover:bg-white/10"
           >
             Get a quote
           </Link>
-        </motion.div>
+        </FadeIn>
 
-        <motion.ul
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 0.6, delay: 0.4 }}
-          className="mt-14 flex flex-wrap gap-x-8 gap-y-2 text-sm text-white/60"
-        >
-          {categories.map((cat) => (
-            <li key={cat.slug}>
-              <Link
-                href={`/product-category/${cat.slug}/`}
-                className="transition hover:text-brand-light"
-              >
-                {cat.name} ({cat.count})
-              </Link>
-            </li>
-          ))}
-        </motion.ul>
+        <FadeIn delay={0.4} y={0} className="mt-14">
+          <ul className="flex flex-wrap gap-x-8 gap-y-2 text-sm text-white/60">
+            {categories.map((cat) => (
+              <li key={cat.slug}>
+                <Link
+                  href={`/product-category/${cat.slug}/`}
+                  className="underline-offset-4 transition hover:text-brand-light hover:underline"
+                >
+                  {cat.name} ({cat.count})
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </FadeIn>
       </div>
     </section>
   );

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
+import { ClipboardList } from "lucide-react";
 import { z } from "zod";
 import { useQuoteStore } from "@/store/quote";
 import { submitQuoteRequest } from "@/actions/contact";
@@ -36,11 +37,16 @@ export function QuoteListClient() {
 
   if (items.length === 0 && status !== "success") {
     return (
-      <div className="py-16 text-center">
-        <p className="text-lg text-muted">Your quote list is empty.</p>
+      <div className="flex flex-col items-center py-16 text-center">
+        <ClipboardList className="size-10 text-muted/50" aria-hidden />
+        <p className="mt-4 text-lg text-muted">Your quote list is empty.</p>
+        <p className="mt-1 max-w-sm text-sm text-muted/80">
+          Add wholesale cuts from the catalog, then submit one request for
+          pricing.
+        </p>
         <Link
           href="/shop/"
-          className="mt-6 inline-flex rounded-md bg-brand px-5 py-3 text-sm font-semibold text-white hover:bg-brand-dark"
+          className="btn-press mt-6 inline-flex rounded-md bg-brand px-5 py-3 text-sm font-semibold text-white hover:bg-brand-dark"
         >
           Browse products
         </Link>

@@ -1,10 +1,11 @@
 import Link from "next/link";
+import { Reveal } from "@/components/motion/Reveal";
 
 export function AboutTeaser() {
   return (
     <section className="py-20">
       <div className="mx-auto grid max-w-6xl gap-10 px-4 sm:px-6 lg:grid-cols-[1.1fr_0.9fr] lg:items-end">
-        <div>
+        <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-brand">
             About us
           </p>
@@ -18,19 +19,21 @@ export function AboutTeaser() {
             every cut should be a pleasure — and every shipment should arrive
             right.
           </p>
-        </div>
-        <div className="border-l-2 border-brand pl-6">
-          <p className="text-sm leading-relaxed text-ink/80">
-            Trusted sourcing, curated selection, and craftsmanship from harvest
-            to delivery — your reliable meat supplier in Thailand.
-          </p>
-          <Link
-            href="/about-us/"
-            className="mt-6 inline-flex text-sm font-semibold text-brand hover:text-brand-dark"
-          >
-            Read our story →
-          </Link>
-        </div>
+        </Reveal>
+        <Reveal delay={0.1}>
+          <div className="border-l-2 border-brand pl-6">
+            <p className="text-sm leading-relaxed text-ink/80">
+              Trusted sourcing, curated selection, and craftsmanship from harvest
+              to delivery — your reliable meat supplier in Thailand.
+            </p>
+            <Link
+              href="/about-us/"
+              className="mt-6 inline-flex text-sm font-semibold text-brand transition-colors hover:text-brand-dark"
+            >
+              Read our story →
+            </Link>
+          </div>
+        </Reveal>
       </div>
     </section>
   );

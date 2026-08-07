@@ -12,17 +12,17 @@ export function ProductCard({ product }: Props) {
   const flags = product.flags;
 
   return (
-    <article className="group flex flex-col">
+    <article className="group flex flex-col transition-transform duration-300 ease-out hover:-translate-y-1">
       <Link
         href={`/product/${product.slug}/`}
-        className="relative aspect-[4/3] overflow-hidden bg-surface"
+        className="relative aspect-[4/3] overflow-hidden bg-surface shadow-sm ring-1 ring-ink/5 transition duration-300 group-hover:shadow-md group-hover:ring-brand/20"
       >
         {image ? (
           <Image
             src={image.src}
             alt={image.alt || product.name}
             fill
-            className="object-cover transition duration-500 group-hover:scale-[1.03]"
+            className="object-cover transition duration-500 ease-out group-hover:scale-[1.04]"
             sizes="(max-width:768px) 50vw, 25vw"
           />
         ) : (
@@ -51,7 +51,10 @@ export function ProductCard({ product }: Props) {
             {product.categories[0]?.name ?? "Product"}
           </p>
           <h3 className="mt-1 font-display text-xl tracking-wide text-ink">
-            <Link href={`/product/${product.slug}/`} className="hover:text-brand">
+            <Link
+              href={`/product/${product.slug}/`}
+              className="transition-colors hover:text-brand"
+            >
               {product.name}
             </Link>
           </h3>
