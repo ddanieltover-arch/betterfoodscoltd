@@ -1,6 +1,6 @@
+import NextAuth from "next-auth";
 import { NextResponse } from "next/server";
-import type { NextRequest } from "next/server";
-import { getToken } from "next-auth/jwt";
+import { authConfig } from "@/auth.config";
 
 /** Normalize for trailingSlash: true (e.g. /admin/login/ → /admin/login). */
 function normalizePathname(pathname: string): string {
@@ -10,7 +10,13 @@ function normalizePathname(pathname: string): string {
   return pathname;
 }
 
-export async function proxy(request: NextRequest) {
+/**
+ * Edge-safe Auth.js instance (no Prisma). Reads the same JWT cookies that
+ * sign-in sets — including `__Secure-authjs.session-token` on HTTPS.
+ */
+const { auth } = NextAuth(authConfig);
+
+export const proxy = auth((request) => {
   const { pathname } = request.nextUrl;
   const path = normalizePathname(pathname);
   const requestHeaders = new Headers(request.headers);
@@ -23,13 +29,10 @@ export async function proxy(request: NextRequest) {
   }
 
   const isLogin = path === "/admin/login";
-  const token = await getToken({
-    req: request,
-    secret: process.env.AUTH_SECRET,
-  });
+  const isLoggedIn = !!request.auth?.user;
 
   if (isLogin) {
-    if (token) {
+    if (isLoggedIn) {
       return NextResponse.redirect(new URL("/admin/", request.url));
     }
     return NextResponse.next({
@@ -37,7 +40,7 @@ export async function proxy(request: NextRequest) {
     });
   }
 
-  if (!token) {
+  if (!isLoggedIn) {
     const loginUrl = new URL("/admin/login/", request.url);
     loginUrl.searchParams.set("callbackUrl", pathname);
     return NextResponse.redirect(loginUrl);
@@ -46,7 +49,7 @@ export async function proxy(request: NextRequest) {
   return NextResponse.next({
     request: { headers: requestHeaders },
   });
-}
+});
 
 export const config = {
   matcher: ["/((?!_next/static|_next/image|favicon.ico|images|.*\\..*).*)"],
