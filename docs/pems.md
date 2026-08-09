@@ -59,5 +59,9 @@
 ## Auth notes
 
 - Roles: SUPER_ADMIN | ADMIN | EDITOR | SALES_MANAGER | READ_ONLY
-- Gate: `web/src/proxy.ts` on `/admin/*`
+- Gate: `web/src/proxy.ts` on `/admin/*` (normalize trailing slash — site has `trailingSlash: true`)
 - Seed: `npm run db:seed` with `ADMIN_EMAIL` / `ADMIN_PASSWORD`
+
+## Decision log (continued)
+
+- 2026-08-09: Fixed admin `ERR_TOO_MANY_REDIRECTS` — proxy treated `/admin/login/` as protected because `isLogin` matched only `/admin/login`

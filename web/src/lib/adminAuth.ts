@@ -56,10 +56,11 @@ export async function requireSalesWrite(): Promise<AdminSessionUser> {
 
 export function safeAdminCallbackUrl(raw: string | null | undefined): string {
   if (!raw || !raw.startsWith("/") || raw.startsWith("//")) {
-    return "/admin";
+    return "/admin/";
   }
-  if (!raw.startsWith("/admin")) {
-    return "/admin";
+  const path = raw.length > 1 && raw.endsWith("/") ? raw.slice(0, -1) : raw;
+  if (!path.startsWith("/admin") || path === "/admin/login") {
+    return "/admin/";
   }
-  return raw;
+  return `${path}/`;
 }
