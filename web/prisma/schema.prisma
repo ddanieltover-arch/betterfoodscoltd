@@ -1,0 +1,145 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+enum AdminRole {
+  SUPER_ADMIN
+  ADMIN
+  EDITOR
+  SALES_MANAGER
+  READ_ONLY
+}
+
+enum PublishStatus {
+  DRAFT
+  PUBLISHED
+  ARCHIVED
+}
+
+enum QuoteStatus {
+  NEW
+  IN_PROGRESS
+  AWAITING_INFO
+  QUOTED
+  CLOSED
+  SPAM
+  ARCHIVED
+}
+
+enum InquiryStatus {
+  NEW
+  IN_PROGRESS
+  CLOSED
+  SPAM
+  ARCHIVED
+}
+
+enum InquirySource {
+  INQUIRY
+  CONTACT
+  AI_ESCALATION
+}
+
+model User {
+  id           String    @id @default(cuid())
+  email        String    @unique
+  passwordHash String
+  name         String?
+  role         AdminRole @default(ADMIN)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+}
+
+model Category {
+  id          String    @id @default(cuid())
+  slug        String    @unique
+  name        String
+  description String?
+  sortOrder   Int       @default(0)
+  products    Product[]
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model Product {
+  id               String         @id @default(cuid())
+  legacyId         Int?           @unique
+  slug             String         @unique
+  name             String
+  shortDescription String?
+  description      String         @default("")
+  bulletsJson      String         @default("[]")
+  categoryId       String?
+  category         Category?      @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+  status           PublishStatus  @default(PUBLISHED)
+  publishedAt      DateTime?
+  quoteOnly        Boolean        @default(true)
+  price            Float          @default(0)
+  currency         String         @default("THB")
+  stockStatus      String?
+  halal            Boolean        @default(false)
+  organic          Boolean        @default(false)
+  freshNoChemicals Boolean        @default(false)
+  images           ProductImage[]
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+}
+
+model ProductImage {
+  id        String  @id @default(cuid())
+  productId String
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  url       String
+  alt       String  @default("")
+  sortOrder Int     @default(0)
+  isPrimary Boolean @default(false)
+}
+
+model QuoteRequest {
+  id            String          @id @default(cuid())
+  referenceCode String          @unique
+  companyName   String?
+  contactName   String
+  email         String
+  phone         String?
+  country       String?
+  message       String?
+  status        QuoteStatus     @default(NEW)
+  version       Int             @default(0)
+  items         QuoteLineItem[]
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime        @updatedAt
+}
+
+model QuoteLineItem {
+  id             String       @id @default(cuid())
+  quoteRequestId String
+  quoteRequest   QuoteRequest @relation(fields: [quoteRequestId], references: [id], onDelete: Cascade)
+  productId      Int?
+  name           String
+  slug           String
+  quantity       Int          @default(1)
+  notes          String?
+  sortOrder      Int          @default(0)
+}
+
+model Inquiry {
+  id          String        @id @default(cuid())
+  companyName String?
+  contactName String
+  email       String
+  phone       String?
+  country     String?
+  subject     String?
+  message     String
+  source      InquirySource @default(CONTACT)
+  sourcePath  String?
+  status      InquiryStatus @default(NEW)
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+}

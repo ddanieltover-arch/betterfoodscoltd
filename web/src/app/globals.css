@@ -11,6 +11,11 @@
   --accent: #f2a93c;
   --background: #f7faf8;
   --foreground: #1b252f;
+  --brand-border: color-mix(in oklab, var(--ink) 18%, transparent);
+  --brand-error: #b42318;
+  --brand-success: #1f7a4c;
+  --brand-radius-md: 0.5rem;
+  --brand-container: 75rem;
 }
 
 @theme inline {
@@ -24,6 +29,9 @@
   --color-accent: var(--accent);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-brand-border: var(--brand-border);
+  --color-brand-error: var(--brand-error);
+  --color-brand-success: var(--brand-success);
   --font-sans: var(--font-barlow);
   --font-display: var(--font-barlow-condensed);
 }

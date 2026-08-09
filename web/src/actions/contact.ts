@@ -7,6 +7,8 @@ import {
   contactUserEmail,
 } from "@/lib/email/templates/contact";
 import { quoteAdminEmail, quoteUserEmail } from "@/lib/email/templates/quote";
+import { createInquiry } from "@/services/inquiryService";
+import { createQuoteRequest } from "@/services/quoteService";
 
 type ActionResult =
   | { success: true }
@@ -30,6 +32,20 @@ export async function submitContactForm(data: unknown): Promise<ActionResult> {
     subject: subject?.trim() || "General inquiry",
     message,
   };
+
+  try {
+    await createInquiry({
+      contactName: name,
+      email,
+      phone,
+      subject: payload.subject,
+      message,
+      source: "CONTACT",
+      sourcePath: "/contact-us",
+    });
+  } catch {
+    return { success: false, error: "Could not save your inquiry. Please try again." };
+  }
 
   const admin = contactAdminEmail(payload);
   const user = contactUserEmail(payload);
@@ -78,6 +94,28 @@ export async function submitQuoteRequest(data: unknown): Promise<ActionResult> {
       notes: item.notes,
     })),
   };
+
+  try {
+    await createQuoteRequest({
+      contactName: name,
+      email,
+      phone,
+      companyName: company,
+      message,
+      items: items.map((item) => ({
+        productId: item.productId,
+        name: item.name,
+        slug: item.slug,
+        quantity: item.quantity,
+        notes: item.notes,
+      })),
+    });
+  } catch {
+    return {
+      success: false,
+      error: "Could not save your quote request. Please try again.",
+    };
+  }
 
   const admin = quoteAdminEmail(payload);
   const user = quoteUserEmail(payload);
