@@ -11,7 +11,7 @@
 
 - Next.js App Router, TypeScript, Tailwind v4
 - File-based catalog JSON for **storefront** (v1)
-- Prisma + SQLite (local) for admin CRM / product CMS
+- Prisma + Supabase Postgres for admin CRM / product CMS
 - Auth.js (Credentials) for `/admin`
 - Resend for quote/contact email
 - Vercel hosting
@@ -61,7 +61,10 @@
 - Roles: SUPER_ADMIN | ADMIN | EDITOR | SALES_MANAGER | READ_ONLY
 - Gate: `web/src/proxy.ts` on `/admin/*` (normalize trailing slash — site has `trailingSlash: true`)
 - Seed: `npm run db:seed` with `ADMIN_EMAIL` / `ADMIN_PASSWORD`
+- DB: Supabase project `blpluqjpauhpwonpzdxi` (eu-west-2). Prisma uses pooler `DATABASE_URL` (6543 + pgbouncer) and session pooler `DIRECT_URL` (5432).
+- Vercel must set `DATABASE_URL`, `DIRECT_URL`, `AUTH_SECRET` (and preferably `AUTH_URL`)
 
 ## Decision log (continued)
 
+- 2026-08-09: Migrated admin DB from SQLite → Supabase Postgres; seeded admin + catalog
 - 2026-08-09: Fixed admin `ERR_TOO_MANY_REDIRECTS` — proxy treated `/admin/login/` as protected because `isLogin` matched only `/admin/login`

@@ -40,7 +40,7 @@ export function getAdminRecipients(): string[] {
 export function getFromEmail(): string {
   return (
     process.env.RESEND_FROM_EMAIL?.trim().replace(/^['"]|['"]$/g, "") ||
-    "Better Foods <onboarding@resend.dev>"
+    "Better Foods <sales@betterfoodcoltd.com>"
   );
 }
 

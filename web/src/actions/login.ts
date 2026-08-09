@@ -12,7 +12,9 @@ export async function loginAction(
   _prev: LoginState,
   formData: FormData,
 ): Promise<LoginState> {
-  const email = String(formData.get("email") ?? "").trim();
+  const email = String(formData.get("email") ?? "")
+    .trim()
+    .toLowerCase();
   const password = String(formData.get("password") ?? "");
   const callbackUrl = safeAdminCallbackUrl(
     String(formData.get("callbackUrl") ?? "/admin"),
@@ -23,6 +25,7 @@ export async function loginAction(
   }
 
   try {
+    // On success Auth.js throws a NEXT_REDIRECT — must not be swallowed.
     await signIn("credentials", {
       email,
       password,
@@ -31,7 +34,12 @@ export async function loginAction(
     return {};
   } catch (error) {
     if (error instanceof AuthError) {
-      return { error: "Invalid email or password." };
+      if (error.type === "CredentialsSignin") {
+        return { error: "Invalid email or password." };
+      }
+      return {
+        error: "Sign-in failed. Check AUTH_SECRET and database configuration.",
+      };
     }
     throw error;
   }
