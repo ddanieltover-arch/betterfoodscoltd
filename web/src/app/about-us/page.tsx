@@ -81,7 +81,16 @@ export default function AboutPage() {
           </p>
           <p className="mt-6 text-sm text-muted">
             Capabilities that matter day to day:{" "}
-            {whyChooseUs.map((w) => w.title).join(" · ")}
+            {whyChooseUs.map((w) => w.title).join(" · ")}. We work with partners
+            who provide{" "}
+            <a
+              href="https://nexships.com/services#warehousing"
+              className="font-semibold text-ink underline decoration-brand/40 underline-offset-2 hover:text-brand"
+              rel="noopener noreferrer"
+            >
+              cold-chain warehousing and freight
+            </a>{" "}
+            for HALAL-capable meat export.
           </p>
         </div>
       </section>
